@@ -1,4 +1,4 @@
-# AutoDRF
+# AutoDRF v0.1
 Quick Api Makers for Django DRF
 
 This mini script will create API folder inside all app folders that has "models.py" in it.
